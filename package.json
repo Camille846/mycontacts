@@ -1,0 +1,19 @@
+{
+  "name": "mycontacts",
+  "version": "1.0.0",
+  "description": "API to store contacts",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Camille846/mycontacts.git"
+  },
+  "author": "Camille Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Camille846/mycontacts/issues"
+  },
+  "homepage": "https://github.com/Camille846/mycontacts#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
